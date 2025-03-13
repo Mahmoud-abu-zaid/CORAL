@@ -14,7 +14,7 @@ export default function Home() {
         </div>
         <div className="p-2">
           <div className="rounded-br-[140px] border-[#b7b7b8] border-2 p-2 rounded-tl-[140px] ">
-            <img src="/imges/engin-akyurt-jaZoffxg1yc-unsplash 1.png" alt="img hero section" className="rounded-tl-[140px] rounded-br-[140px] w-[300px]" />
+            <img src="/imges/engin-akyurt-jaZoffxg1yc-unsplash 1.png" alt="img hero section" className="rounded-tl-[140px] rounded-br-[140px] w-[350px]" />
           </div>
         </div>
       </div>
